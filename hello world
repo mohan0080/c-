@@ -1,0 +1,22 @@
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+}
+#include<stdio.h>
+void main()
+{
+printf("mohan");
+}
+
+what is #include<stdio.h>?
+ans : it stands for standard input and output . it is a header file .
+
+what is printf?
+ans: printf is usec to print the output
+     ex: printf(" innovation lab");
+         output: innovation lab
+         
+what is main?
+ans : it is a function. it has return type . it sometimes takes in input .
+
